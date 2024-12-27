@@ -37,7 +37,7 @@ A Next.js web application that allows visitors to share messages from different 
 1. Clone the repository
 ```bash
 git clone git@github.com:sitowebveloce/geofeels.git
-cd world-messages-map
+cd geofeels
 ```
 
 2. Install dependencies
